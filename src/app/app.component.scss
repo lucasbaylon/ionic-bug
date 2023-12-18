@@ -2,19 +2,7 @@
     width: 100vw;
     height: 100vh;
     z-index: 1;
-    // position: relative;
 }
-
-// .area {
-//     position: fixed;
-//     /* Fixe l'animation par rapport à la fenêtre du navigateur */
-//     width: 100vw;
-//     height: 100vh;
-//     z-index: 1;
-//     /* S'assure que l'animation est derrière le contenu */
-//     // pointer-events: none;
-//     /* Permet aux éléments sous l'animation d'être cliquables */
-// }
 
 .circles {
     position: absolute;
